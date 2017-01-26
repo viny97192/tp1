@@ -1,1 +1,3 @@
 répertoire utilisé pour tester le clonage de projet git
+
+ce fichier est édité par Vincent Taco aka Viny971
